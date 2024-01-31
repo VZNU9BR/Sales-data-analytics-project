@@ -1,6 +1,7 @@
 The following data analytics project delves into the intricate relationship between gender, age, occupation, and demographics, aiming to unravel the nuanced effects of these factors on shopping behavior within a given population. This multifaceted study utilizes advanced analytical techniques to extract meaningful insights that can inform businesses and marketers in crafting targeted strategies.
 
 Key Components:
+
 Demographic Profiling:
 Conducting a meticulous demographic analysis to create detailed profiles of the study population. This includes categorizing individuals based on gender, age, occupation, and other relevant demographic factors.
 
